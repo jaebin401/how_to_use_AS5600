@@ -24,8 +24,8 @@ AS5600 라이브러리에서 기본 제공되는 코드를 응용하여 작성�
 - AS5600 모듈의 구조상, 아래 이미지의 방향대로 frame을 조립해야 온전히 사용할 수 있습니다.
 - 해당 파일들은 /STL files 폴더에 포함되어 있습니다.
 
-<img width="500" alt="knob and frame2" src="https://github.com/user-attachments/assets/84f04b14-d0b2-4f64-9444-f1211907799b" /> 
-<img width="500" alt="knob and frame" src="https://github.com/user-attachments/assets/77b0af62-828c-450d-bcbc-55836e7a4b0a" />
+<img width="400" alt="knob and frame2" src="https://github.com/user-attachments/assets/84f04b14-d0b2-4f64-9444-f1211907799b" /> 
+<img width="400" alt="knob and frame" src="https://github.com/user-attachments/assets/77b0af62-828c-450d-bcbc-55836e7a4b0a" />
 
 
 ---
