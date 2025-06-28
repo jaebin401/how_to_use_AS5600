@@ -15,8 +15,8 @@
 | AS5600 | 자기 회전각 센서 (아날로그 출력 지원 모델) |
 | 3D 프린터 출력 노브 | 센서 축에 장착하여 회전 테스트용 |
 
-<img width="100" alt="knob and frame2" src="https://github.com/user-attachments/assets/84f04b14-d0b2-4f64-9444-f1211907799b" /> 
-<img width="107" alt="knob and frame" src="https://github.com/user-attachments/assets/77b0af62-828c-450d-bcbc-55836e7a4b0a" />
+<img width="500" alt="knob and frame2" src="https://github.com/user-attachments/assets/84f04b14-d0b2-4f64-9444-f1211907799b" /> 
+<img width="500" alt="knob and frame" src="https://github.com/user-attachments/assets/77b0af62-828c-450d-bcbc-55836e7a4b0a" />
 
 
 
