@@ -30,7 +30,7 @@ void setup()
 }
 
 
-void loop()
+void loop() 
 {
   Serial.print(millis());
   Serial.print("\t");
