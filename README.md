@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/e2465318-d916-4683-8962-e5015a295904
 <img width="400" alt="knob and frame2" src="https://github.com/user-attachments/assets/84f04b14-d0b2-4f64-9444-f1211907799b" /> 
 <img width="400" alt="knob and frame" src="https://github.com/user-attachments/assets/77b0af62-828c-450d-bcbc-55836e7a4b0a" />
 
-
+- [Josselin Hefti / AS5600 f3d file](https://www.printables.com/model/1295862-as5600)
 ---
 
 ## 📁 코드 개요
